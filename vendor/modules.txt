@@ -44,6 +44,19 @@ github.com/alecthomas/template/parse
 # github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d
 ## explicit
 github.com/alecthomas/units
+# github.com/aliyun/alibaba-cloud-sdk-go v1.61.696
+## explicit
+github.com/aliyun/alibaba-cloud-sdk-go/sdk
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth/credentials
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth/credentials/provider
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth/signers
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/endpoints
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/errors
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/requests
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/responses
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/utils
+github.com/aliyun/alibaba-cloud-sdk-go/services/ecs
 # github.com/armon/go-metrics v0.3.3
 ## explicit
 github.com/armon/go-metrics
@@ -101,6 +114,10 @@ github.com/containerd/containerd/errdefs
 # github.com/davecgh/go-spew v1.1.1
 ## explicit
 github.com/davecgh/go-spew/spew
+# github.com/denverdino/aliyungo v0.0.0-20201121000916-05db993022b8
+## explicit
+github.com/denverdino/aliyungo/metadata
+github.com/denverdino/aliyungo/util
 # github.com/dgryski/go-sip13 v0.0.0-20200911182023-62edffca9245
 ## explicit
 github.com/dgryski/go-sip13
@@ -655,6 +672,8 @@ gopkg.in/alecthomas/kingpin.v2
 gopkg.in/fsnotify/fsnotify.v1
 # gopkg.in/inf.v0 v0.9.1
 gopkg.in/inf.v0
+# gopkg.in/ini.v1 v1.42.0
+gopkg.in/ini.v1
 # gopkg.in/yaml.v2 v2.3.0
 ## explicit
 gopkg.in/yaml.v2

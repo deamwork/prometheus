@@ -12,11 +12,13 @@ require (
 	github.com/HdrHistogram/hdrhistogram-go v0.9.0 // indirect
 	github.com/Microsoft/go-winio v0.4.14 // indirect
 	github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.696
 	github.com/armon/go-metrics v0.3.3 // indirect
 	github.com/aws/aws-sdk-go v1.35.5
 	github.com/cespare/xxhash v1.1.0
 	github.com/containerd/containerd v1.3.4 // indirect
 	github.com/davecgh/go-spew v1.1.1
+	github.com/denverdino/aliyungo v0.0.0-20201121000916-05db993022b8
 	github.com/dgryski/go-sip13 v0.0.0-20200911182023-62edffca9245
 	github.com/digitalocean/godo v1.46.0
 	github.com/docker/distribution v2.7.1+incompatible // indirect
